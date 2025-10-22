@@ -1,14 +1,41 @@
 ---
 title: "MBA Portfolio"
-author: "Katherine Alicia Samaniego Ventura"
-format: html
-theme: cosmo
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
+    fontsize: 1.05em
+    linestretch: 1.6
+    smooth-scroll: true
 page-layout: full
 ---
 
+<style>
+  body {
+    font-family: "Segoe UI", sans-serif;
+    color: #222;
+    background-color: #fff;
+    line-height: 1.6;
+    font-size: 1.05em;
+  }
+  h1, h2, h3 {
+    color: #204d74;
+    margin-top: 1.5em;
+  }
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+
+</style>
+
 # Katherine Samaniego
 
-**Vancouver, BC | +1 236-513-5429 | kasv2793@gmail.com**  
+Vancouver, BC | +1 236-513-5429 | kasv2793@gmail.com  
 **LinkedIn:** [linkedin.com/in/katherine-samaniego-ventura-4750401a5](https://ca.linkedin.com/in/katherine-samaniego-ventura-4750401a5)
 
 ---
@@ -94,15 +121,15 @@ Currently pursuing an **MBA at University Canada West** to further develop strat
 
 # Selected Projects
 
-### El Paisano – E-Commerce Development Project (2025)
+### El Paisano – E-Commerce Development Project (2025)  
 - Collaborated with a local Latin food business to assess digital transformation opportunities.  
 - Proposed realistic e-commerce and UX strategies to enhance customer engagement and retention.  
 
-### Netflix – Business Report Using AI Tools (2025)
+### Netflix – Business Report Using AI Tools (2025)  
 - Researched Netflix’s data-driven advertising and AI integration strategies.  
 - Created a professional report using Quarto, connecting business intelligence to marketing impact.  
 
-### Leadership & Power Analysis Presentation (2025)
+### Leadership & Power Analysis Presentation (2025)  
 - Delivered a multimedia presentation on emotional intelligence and leadership theories.  
 - Applied analytical and storytelling techniques to explain leadership models effectively.  
 
@@ -113,5 +140,3 @@ Currently pursuing an **MBA at University Canada West** to further develop strat
 - **Spanish:** Native  
 - **English:** Fluent  
 - **French:** Basic  
-
-
